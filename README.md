@@ -1,0 +1,2 @@
+# client-mcuk24or-storybook
+CloudFlareで自動でstorybookが移植されるかどうかのテストです
